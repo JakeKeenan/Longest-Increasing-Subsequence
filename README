@@ -1,0 +1,16 @@
+Program Author: Jake Keenan
+Program Assignment: HW6 longest increasing subsequence
+Date: 3/5/19
+
+How to execute program on CS1:
+Run the Makefile by typing 'make' into PuTTY along with the file,
+HW6_Main in the same directory
+
+type: "./test <filename>" to execute the program
+
+Example input: ./test input.txt
+
+Example output: 
+Length of the LIS = 6
+The LIS is: 15 11 9 6 2 1
+
